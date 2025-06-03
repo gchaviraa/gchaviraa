@@ -5,7 +5,7 @@ I'm passionate about technology, music, and storytelling through games and code.
 ---
 
 ## 🌟 About Me
-- 💻 **Developer**: Backend development with Laravel, and am actively expanding into game development using Unity and Unreal Engine.
+- 💻 **Developer**: Backend development and expanding into game development using Unreal Engine.
 - 🌐 **Tech Enthusiast**: I'm always exploring new ways to blend AI, interactive design, and automation—whether it’s through building a virtual assistant or crafting immersive game environments.
 - 🎯 **Goals**: Bringing Wanda to life as a proactive, voice-activated assistant; launching a story-driven PC game that blends visual storytelling with cosmic horror elements.
 - 📚 **Learning**: Currently diving deeper into game engine workflows (Unity/Unreal) and improving cross-platform compatibility for automation tools.
